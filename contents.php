@@ -45,20 +45,21 @@ type='image'
 					<!-- Nav -->
 						<nav id="nav">
 							<ul>
-								<li><a href="index.php">Home</a></li>
+								<li><a href="index.php"> Home </a> </li>
 								<li>
 									Contents
+								
 									<ul>
-										<li><a href="contents_inbhubaneswar.php">In Bhubaneswar</a></li>
-										<li><a href="contents_aroundbhubaneswar.php">Around Bhubaneswar</a></li>
+										<li><a href="contents_inbhubaneswar.php">Contents in Bhubaneswar</a></li>
+										<li><a href="contents_aroundbhubaneswar.php">Contents around Bhubaneswar</a></li>
 
 									</ul>
 								</li>
-								<li><a href="recipes.php">Recipes</li> </a>
-								<li><a href="index.php#banner">Deals & Discounts</a></li>
-								<li><a href="events.php">Events</a></li>
-								<li><a href="index.php#banner1">About</li> </a>
-								<li><a href="contact.html">Contact Us</li> </a>
+								<li><a href="recipes.php">Recipes </a> </li>
+								<li><a href="index.php#banner">Deals & Discounts</a> </li>
+								<li><a href="events.php">Events </a> </li>
+								<li><a href="index.php#banner1">About </a> </li>
+								<li><a href="contact.html">Contact Us </a> </li>
 								
 							</ul>
 						</nav>
