@@ -58,7 +58,7 @@ type='image' />
 								<li><a href="recipes.php">Recipes </a> </li>
 								<li><a href="index.php#banner">Deals & Discounts</a></li>
 								<li><a href="events.php">Events</a></li>
-								<li><a href="index.php#banner1">About </a> </li>
+								<li><a href="index.php#banner1">About Us</a> </li>
 								<li><a href="contact.html">Contact Us </a> </li>
 								
 							</ul>
